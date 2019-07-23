@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CCULibrary</string>
+    <string name="action_settings1">設定</string>
+    <string name="action_settings1_1">Webサーバー名</string>
+    <string name="action_settings1_2">Webアプリケーション名</string>
+</resources>

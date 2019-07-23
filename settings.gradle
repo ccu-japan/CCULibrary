@@ -1,0 +1,1 @@
+include ':app', ':ccucommon', ':cculibrary', ':smartcardio-0.1.1', ':acssmcio-0.4.1'
